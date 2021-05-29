@@ -1,0 +1,6 @@
+framework module Pods_Course_Work_Course_WorkUITests {
+  umbrella header "Pods-Course Work-Course WorkUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
